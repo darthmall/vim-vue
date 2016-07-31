@@ -1,3 +1,5 @@
+*No longer maintained*
+
 # vim-vue
 
 Vim syntax highlighting for [Vue
